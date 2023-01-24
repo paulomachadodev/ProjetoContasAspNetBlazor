@@ -11,4 +11,3 @@
 * Password Reset
 * Menu Lateral
 * Loading...
-* Recursos em Java Script
